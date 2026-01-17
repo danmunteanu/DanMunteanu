@@ -9,7 +9,7 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 - [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my C# beginner Udemy course
 
 ## About Me
-Basically I'm an OOP software developer with an interest for many more things, such as:
+I'm an lifelong software developer interested in many other things, such as:
 - Music production
 - Voiceovers 
 - Audio editing
