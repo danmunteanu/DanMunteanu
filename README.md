@@ -14,11 +14,11 @@ I have professional experience with both desktop and web development.
 - C# with .NET Core to create WinForms apps
 
 ### For web development, I use:
-- Laravel with PHP as the base for all my web apps
-- Vue.js for web ui
+- Laravel with PHP as the foundation for my web apps
+- Vue.js for building web UIs
 - Filament for server-side UI rendering
-- Tailwind or Bootstrap for layouting and styling
-- three.js to create 3D web apps
+- Tailwind or Bootstrap for layouts and styling
+- three.js for creating 3D web apps	
 
 ## Blogging
 Occasionally, I write articles on [Reality Frameworks](https://realityframeworks.com), some are technical and some personal.
