@@ -20,16 +20,16 @@ My main professional experience is with software development, both desktop and w
 But lately I've also voiced some commercials, corporate training and a few YouTube channels (in Romanian).
 
 ## Software Development 
-### For desktop, I use 
+### For Windows desktop, I use 
 - C# with .NET Core to create mostly WinForms apps
 
 ### For web development, I use:
-- Laravel with PHP as the foundation for all my web apps
-- MySQL/MariaDB and SQLite for db storage
-- Vue.js for building web UIs
-- Filament for server-side UI rendering
-- Tailwind or Bootstrap for layouts and styling
-- three.js for creating 3D web apps	
+- **Laravel** with **PHP** as the foundation for all my web apps
+- **MySQL**/**MariaDB** and **SQLite** for db storage
+- **Vue.js** and **PrimeVue** for building web UIs
+- **Filament** for server-side UI rendering
+- **Tailwind** or **Bootstrap** for layouts and styling
+- **three.js** for creating 3D web apps	
 
 ## Blogging
 Occasionally, I write articles on [Reality Frameworks](https://realityframeworks.com), some are technical in nature, some are personal.
@@ -44,7 +44,7 @@ Here are a few of my best articles:
 ## Published Courses 
 - [C# Beginner Course: Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
 
-## Games I play on a regular basis 
+## Games I enjoy playing on a regular basis 
 - Path Of Exile 1
 - Path Of Exile 2
 - No Rest For The Wicked
