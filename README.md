@@ -1,6 +1,4 @@
-Hi, I'm Dan Munteanu.
-
-Below you will find a few things about me.
+Hi, I'm Dan Munteanu. Below you will find a few of the things I created.
 
 ## My Best Repos:
 - [Raytracer Unilight](https://github.com/danmunteanu/RAYTRACER_UNILIGHT) - A simple raytracing app written in C# for Windows desktop
