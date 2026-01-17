@@ -9,8 +9,7 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve been building.
 - [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my C# beginner Udemy course
 
 ## Software Development:
-Basically I'm into object-oriented programming. 
-I have professional experience with both desktop and web development. 
+Basically I'm an object-oriented programmer with a interest for many more things. I have professional experience with both desktop and web development. 
 
 ### For desktop application development, I use 
 - C# with .NET Core to create WinForms apps
