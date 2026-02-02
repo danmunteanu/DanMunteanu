@@ -26,16 +26,16 @@ I've voiced a few commercials, corporate training videos and even a couple of Yo
 Hire me as a freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/) (on Fiverr).
 
 ## Software Development 
-### On Windows, I develop desktop applications with:
+### Windows Desktop Applications:
 - C# and .NET Core
 
-### For Web Development, I use:
+### Web Development
 - **Laravel** as my go-to framework for all my web apps
 - **MySQL**/**MariaDB** and **SQLite** for db storage
 - **Vue.js** and **PrimeVue** for building web user interfaces
 - **Tailwind** and **Bootstrap** for styling
 
-### I'm also experimenting with:
+### Experimenting + Learning:
 - **Filament** for server-side UI rendering
 - **three.js** for creating 3D web apps	
 
