@@ -8,6 +8,11 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 - [SaveMoon](https://github.com/danmunteanu/SAVE_MOON) - Simple C# app to archive the saves folder for No Rest For The Wicked (Breach Refined). *I wrote this after my saves were corrupted upon the game failing.*
 - [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my **Windows Desktop Application Development with C# and .NET** beginner course on Udemy.
 
+## Currently Working On:
+[Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
+This is a course designed to help beginners with learning desktop application development. 
+I am currently working on new lectures to add to the course.
+
 ## About Me
 I'm an lifelong software tinkerer. I am also interested in other things, such as:
 - Music production
@@ -18,12 +23,7 @@ I'm an lifelong software tinkerer. I am also interested in other things, such as
 
 I've voiced a few commercials, corporate training videos and even a couple of YouTube channels (as a Romanian Voiceover).
 
-You can hire me as a freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/) on Fiverr.
-
-## Currently I am working on:
-[Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
-This is a course designed to help beginners with learning desktop application development. 
-I am currently working on new lectures to add to the course.
+Hire me as a freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/) on Fiverr.
 
 ## Software Development 
 ### On Windows, I develop Desktop Applications with:
