@@ -9,26 +9,34 @@ Hi, I'm Dan Munteanu. Here are a few things I’ve built:
 - [CS Yaml Parser](https://github.com/danmunteanu/CS_YAML_PARSER) - Companion app for my **Windows Desktop Application Development with C# and .NET** beginner course on Udemy.
 
 ## About Me
-I'm an lifelong software tinkerer, interested in many other things, such as:
+I'm an lifelong software tinkerer. I am also interested in other things, such as:
 - Music production
 - Voiceovers 
 - Audio editing
-- Free Software
+- Course Publishing
+- Open Source Software
 
-I've also voiced commercials, corporate training and a few YouTube channels (as a Romanian Voiceover).
+I've voiced a few commercials, corporate training videos and even a couple of YouTube channels (as a Romanian Voiceover).
 
-Find me on [Fiverr here](https://www.fiverr.com/dan_munteanu/)
+You can hire me as a freelance [Romanian Voiceover](https://www.fiverr.com/dan_munteanu/) on Fiverr.
+
+## Currently I am working on:
+[Building Desktop Applications For Windows With C# And .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
+This is a course designed to help beginners with learning desktop application development. 
+I am currently working on new lectures to add to the course.
 
 ## Software Development 
-### For Windows desktop, I use 
-- C# with .NET Core to create WinForms apps
+### On Windows, I develop Desktop Applications with:
+- C# and .NET Core
 
-### For web development, I use:
-- **Laravel** with **PHP** as the foundation for all my web apps
+### For Web Development, I use:
+- **Laravel** as my go-to framework for all my web apps
 - **MySQL**/**MariaDB** and **SQLite** for db storage
-- **Vue.js** and **PrimeVue** for building web UIs
+- **Vue.js** and **PrimeVue** for building web user interfaces
+- **Tailwind** and **Bootstrap** for styling
+
+### I'm also experimenting with:
 - **Filament** for server-side UI rendering
-- **Tailwind** or **Bootstrap** for layouts and styling
 - **three.js** for creating 3D web apps	
 
 ## Blogging
