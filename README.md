@@ -9,7 +9,7 @@ Hi, I'm Dan Munteanu. I like to build stuff or figure out how stuff works. Below
 - [CS Graphics](https://github.com/danmunteanu/CS_GRAPHICS) - Drawing pretty fractals (Mandelbrot set)
 - [Raytracer Unilight](https://github.com/danmunteanu/RAYTRACER_UNILIGHT) - A simple multi-threaded raytracing app written in pure C# for Windows desktop 
 - [MemphisNow](https://github.com/danmunteanu/MEMPHIS_NOW) - An app written in C++ and Qt 6 to rename mp3 files in a visual way
-- [(Course) Windows Desktop Application Development with C# and .NET](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
+- [(Course) Smart C# App Development](https://www.udemy.com/course/learn-csharp-yaml-parsing/)
 
 ## About Me
 I'm an lifelong software tinkerer and learner. I am also doing other things, such as:
