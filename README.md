@@ -9,13 +9,14 @@ Hi, I'm Dan Munteanu. I like to build stuff or figure out how stuff works. Below
 - [CS Graphics](https://github.com/danmunteanu/CS_GRAPHICS) - Drawing pretty fractals (Mandelbrot set)
 - [Raytracer Unilight](https://github.com/danmunteanu/RAYTRACER_UNILIGHT) - A simple multi-threaded raytracing app written in pure C# for Windows desktop 
 - [MemphisNow](https://github.com/danmunteanu/MEMPHIS_NOW) - An app written in C++ and Qt 6 to rename mp3 files in a visual way
-- [(Course) Smart C# App Development](https://www.udemy.com/course/learn-csharp-yaml-parsing/) - A Udemy course that teaches developing Windows desktop application development with C# and WindowsForms
+- [Smart C# App Development (Course)](https://www.udemy.com/course/learn-csharp-yaml-parsing/) - A Udemy course on Windows Desktop Application development with C# and Windows Forms
 
 ## About Me
-I'm an lifelong software tinkerer and learner. I am also doing other things, such as:
+I'm an lifelong software tinkerer and learner interested in:
 - [Recording Romanian Voiceovers](https://www.fiverr.com/dan_munteanu/)
 - Editing Audio (with Adobe Audition)
 - Editing Video for my courses (with DaVinci Resolve 20)
+- Software Development (Web & Desktop)
 
 As a Romanian Voiceover, I've voiced:
 * Commercials
