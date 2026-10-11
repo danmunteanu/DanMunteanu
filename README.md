@@ -2,6 +2,7 @@ Hi, I'm Dan Munteanu. I like to build stuff or figure out how stuff works. Below
 
 ## My Projects:
 
+- [Funky Shapes](https://github.com/danmunteanu/FUNKY_SHAPES) - Draws parametric equation shapes; Made with p5, vue.js and PrimeVue
 - [Links](https://github.com/danmunteanu/LINKS) - A personal collection of bookmarks I've gathered from my online explorations
 - [Chuck](https://github.com/danmunteanu/CHUCK) - Music production experiments using the Chuck programming language
 - [SaveMoon](https://github.com/danmunteanu/SAVE_MOON) - Simple C# app to archive the saves folder for No Rest For The Wicked (worked on The Breach Refined). Supports archiving other folders as well
