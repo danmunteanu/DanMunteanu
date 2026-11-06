@@ -25,6 +25,9 @@ As a Romanian Voiceover, I've voiced:
 * YouTube channels
 * Personal development podcast
 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,nuxtjs,html,js,sqlite,tailwind,cs,dotnet,threejs,visualstudio)](https://skillicons.dev)
+
 ## Software Development 
 ### Windows Desktop Applications:
 - C# and .NET Core
