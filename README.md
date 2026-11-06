@@ -15,6 +15,8 @@ Hi, I'm Dan Munteanu. I like to build stuff or figure out how stuff works. Below
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,vue,nuxtjs,html,tailwind,js,jquery,css,sqlite,mysql,cs,dotnet,threejs,linux,obsidian,vscode,visualstudio,github,md)](#)
 
+Also: Filament, PrimeVue.
+
 ## About Me
 I'm an lifelong software tinkerer and learner interested in:
 - [Recording Romanian Voiceovers](https://www.fiverr.com/dan_munteanu/)
@@ -27,28 +29,6 @@ As a Romanian Voiceover, I've voiced:
 * Corporate Training videos
 * YouTube channels
 * Personal development podcast
-
-## Software Development 
-### Windows Desktop Applications:
-- C# and .NET Core
-- Windows Forms
-
-### Web Development
-#### Backend
-- **Laravel** as my go-to framework for web development
-#### Databases
-- **MySQL**
-- **MariaDB**
-- **SQLite**
-#### Responsive web UIs
-- **Vue.js**
-- **PrimeVue**
-- **NuxtUI**
-- **Tailwind** and **Bootstrap**
-
-### Also experimenting with:
-- **Filament** for server-side UI rendering
-- **three.js** for creating 3D web apps	
 
 ## Blogging
 Occasionally, I write articles on [Reality Frameworks](https://realityframeworks.com). Some are technical in nature, some are personal and some are gaming-related.
