@@ -13,7 +13,7 @@ Hi, I'm Dan Munteanu. I like to build stuff or figure out how stuff works. Below
 - [Smart C# App Development (Course)](https://www.udemy.com/course/learn-csharp-yaml-parsing/) - A Udemy course on Windows Desktop Application development with C# and Windows Forms
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,html,js,mysql,sqlite,tailwind,cs,dotnet,threejs,visualstudio, obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,nuxtjs,html,js,mysql,sqlite,tailwind,cs,dotnet,threejs,visualstudio,obsidian)](https://skillicons.dev)
 
 ## About Me
 I'm an lifelong software tinkerer and learner interested in:
