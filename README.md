@@ -1,6 +1,6 @@
 Hi, I'm Dan Munteanu. I like to build stuff or figure out how stuff works. Below you will find a few things I've built.
 
-## My Projects:
+## Projects
 
 - [Funky Shapes](https://github.com/danmunteanu/FUNKY_SHAPES) -  Vue app for generating colorful geometric shapes from a polar formula
 - [Links](https://github.com/danmunteanu/LINKS) - A personal collection of bookmarks I've gathered from my online explorations
@@ -15,13 +15,12 @@ Hi, I'm Dan Munteanu. I like to build stuff or figure out how stuff works. Below
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,vue,html,tailwind,js,jquery,css,sqlite,mysql,cs,dotnet,cpp,threejs,linux,obsidian,vscode,visualstudio,github,md)](#)
 
-Also: Filament, PrimeVue.
+**Also**: Filament, PrimeVue.
 
 ## About Me
 I'm an lifelong software tinkerer and learner interested in:
 - [Recording Romanian Voiceovers](https://www.fiverr.com/dan_munteanu/)
 - Editing Audio (with Adobe Audition)
-- Editing Video for my courses (with DaVinci Resolve 20)
 - Software Development (Web & Desktop)
 
 As a Romanian Voiceover, I've voiced:
@@ -31,7 +30,7 @@ As a Romanian Voiceover, I've voiced:
 * Personal development podcast
 
 ## Blogging
-Occasionally, I write articles on [Reality Frameworks](https://realityframeworks.com). Some are technical in nature, some are personal and some are gaming-related.
+I occasionally write articles on [Reality Frameworks](https://realityframeworks.com). Some are technical in nature, some are personal and some are gaming-related.
 
 ## Games I enjoy playing on a regular basis 
 - Path Of Exile 1
